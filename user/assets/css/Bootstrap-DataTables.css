@@ -1,0 +1,48 @@
+.bootstrap_datatables {
+  min-height: 100vh;
+  margin-top: 80px;
+}
+
+td {
+  vertical-align: middle;
+}
+
+nav {
+  background-image: linear-gradient( 100deg , #0e0e0e 25%, #474747 100%);
+}
+
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+}
+
+.tg td {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg th {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg .tg-0pky {
+  border-color: inherit;
+  text-align: left;
+  vertical-align: top;
+}
+

@@ -1,0 +1,22 @@
+#content {
+  background-color: #0e0e0e;
+  background-image: linear-gradient(180deg, #b1b1b1 10%, #474747 100%);
+}
+
+label {
+  color: floralwhite;
+}
+
+.text-gray-600 {
+  color: white !important;
+}
+
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
